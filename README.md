@@ -5,7 +5,7 @@ In an attempt to better understand Capsule Networks, I have set out on my own to
 
 Data & results are excluded from repository because of the size.
 
-#Acknowledgements:
+## Acknowledgements:
 
 - Siraj Raval
 - Daniel Shiffman 
